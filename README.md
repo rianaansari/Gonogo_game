@@ -1,2 +1,2 @@
 # Gonogo_game
-A simple game
+A simple game I created.
