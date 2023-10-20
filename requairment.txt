@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.2
+controller==0.1.0
+numpy==1.26.1
+pandas==2.1.1
+psychopy==2023.2.3
+requests==2.25.1
+requests-toolbelt==1.0.0
+wxPython==4.2.1
+Plexon
+display
+initializers
+json
+sys
